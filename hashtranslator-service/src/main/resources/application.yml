@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hash-translator
+
+3rd:
+  api:
+    url: https://md5decrypt.net/en/Api/api.php?hash={hash}&hash_type={hash_type}&email={email}&code={code}
